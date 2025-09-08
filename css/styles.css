@@ -1,0 +1,23 @@
+body{background-color: red;}
+
+header{background-color: black;
+width: 100;
+padding: 10px;}
+header{text-decoration: none;}
+
+.section-logo img{width: 100;
+height: 5000px;}
+
+.seccion-noticias{background-color: mediumturquoise;
+padding: 100px;
+text-align: justify;
+}
+main i {color: rgb(141, 80, 0);}
+
+main{background-color: rgb(255, 166, 0);
+padding: 1%;}
+
+
+footer{background-color: black;
+text-align: center;}
+footer i {color: white;}
